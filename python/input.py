@@ -1,0 +1,7 @@
+name =input("Enter your name:  ")
+print(name)
+roll =input("enter your roll number :- ")
+print(roll)
+print(type(roll))
+age = int(input("enter your roll number :- "))
+print(roll)
